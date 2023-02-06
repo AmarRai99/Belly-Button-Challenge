@@ -58,3 +58,6 @@ Use otu_labels for the text values.
 
 7. Deploy your app to a free static page hosting service, such as GitHub Pages. Submit the links to your deployment and your GitHub repo. Ensure that your repository has regular commits and a thorough README.md file
 
+The final deployed website is found here https://amarrai99.github.io/Belly-Button-Challenge/
+
+
