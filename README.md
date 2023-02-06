@@ -24,6 +24,9 @@ Download the following files to help you get started:
 
 Module 14 Challenge filesLinks to an external site.
 
+![image](https://user-images.githubusercontent.com/111756299/216855810-e90ec5b8-852d-453c-a812-7980bf7f688e.png)
+
+
 # Instructions
 Complete the following steps:
 
